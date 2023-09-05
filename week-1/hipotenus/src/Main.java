@@ -6,7 +6,7 @@ public class Main {
 
         int a,b;
         double c;
-        Double u;
+        double u;
 
         Scanner inp = new Scanner(System.in);
         System.out.print("DİK KENAR 1:");
